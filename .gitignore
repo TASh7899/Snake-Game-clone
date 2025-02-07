@@ -54,3 +54,7 @@
 Makefile
 *.mk
 
+*.exe
+*.dsym
+main
+
